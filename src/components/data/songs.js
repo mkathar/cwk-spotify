@@ -1,0 +1,48 @@
+export default [
+  {
+    id: 1,
+    artist: "ASAP ROCKY",
+    title: "Praise The Lord",
+    description: "Bu adam 1 numara",
+    image:
+      "https://newjams-images.scdn.co/image/ab67647800003f8a/dt/v3/release-radar/ab6761610000e5ebee452efcf24aa4124fb28d94/tr",
+    type: "artist",
+    src: "https://cdn.freesound.org/previews/338/338986_5106192-lq.mp3",
+  },
+  {
+    id: 2,
+    artist: "Tech n9ne",
+    title: "The Harder",
+    description: "Bu adam 1 numara",
+    image: "https://i.scdn.co/image/ab67616d00001e0253f554a74f14afe80efc84fe",
+    type: "album",
+    src: "https://cdn.freesound.org/previews/338/338986_5106192-lq.mp3",
+  },
+  {
+    id: 3,
+    artist: "ASAP Ferg",
+    title: "Plain jane",
+    description: "Bu adam 1 numara",
+    image: "https://i.scdn.co/image/ab67706f00000002c6a390d613c3d4b9c2dc6c9f",
+    type: "podcast",
+    src: "https://cdn.freesound.org/previews/348/348275_2866779-lq.mp3",
+  },
+  {
+    id: 4,
+    artist: "Offset",
+    title: "Clout",
+    description: "Bu adam 1 numara",
+    image: "https://i.scdn.co/image/ab67616100005174f4593f7b778219838d858c34",
+    type: "album",
+    src: "https://cdn.freesound.org/previews/412/412224_5121236-lq.mp3",
+  },
+  {
+    id: 5,
+    artist: "Doja Cat",
+    title: "Like That",
+    description: "Bu adam 1 numara",
+    image: "https://i.scdn.co/image/ab6761610000f178727a2ac15afe659be999beba",
+    type: "album",
+    src: "https://cdn.freesound.org/previews/651/651035_11943129-lq.mp3",
+  },
+];
